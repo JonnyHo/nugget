@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=WarmupMethods
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WarmupMethods\ here.\r\n\r\n\ @author\ Jason\ Ballinger\r\n\ @version\ 9/28/2021\r\n\ \r\n
+comment1.params=
+comment1.target=WarmupMethods()
+comment2.params=paramA\ paramB
+comment2.target=WarmupMethods(double,\ double)
+comment3.params=dup
+comment3.target=WarmupMethods(WarmupMethods)
+comment4.params=
+comment4.target=double\ sum()
+comment5.params=
+comment5.target=double\ quotient()
+comment6.params=
+comment6.target=double\ difference()
+comment7.params=
+comment7.target=double\ getnuma()
+comment8.params=
+comment8.target=double\ getnumb()
+numComments=9
